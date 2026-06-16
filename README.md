@@ -1,101 +1,119 @@
-README
+Supply Chain Analysis Project – README
 
 1. Overview
+This folder contains the full submission for a multi-task Supply Chain analysis project. The deliverables include document-based analyses, meeting artifacts, data analysis outputs, and a final presentation summarizing findings and compliance considerations.
 
-This submission contains a structured set of documents related to the analysis, communication, and resolution of a supply chain issue scenario. The materials demonstrate problem investigation, stakeholder communication, and actionable planning.
+The project is structured across four main tasks:
+1. Email and issue review
+2. Action planning and meeting coordination
+3. Data analysis and reporting
+4. Compliance reporting
 
 ------------------------------------------------------------------
 
 2. File Inventory and Purpose
 
-Core Analysis and Reporting
+Supporting Reference Material
+- 1. Library_of_Copilot_Prompts.docx  
+  Collection of prompts used to guide Copilot-assisted analysis and report generation.
 
-- Supply_Chain_Issue_Analysis_Report.docx  
-  Detailed analysis of the issue, including root cause identification and impact assessment.  
+Task 1 – Issue Identification and Summary
+- Task_1_Email_Summary.docx  
+  Summary of key emails and supply chain issues.  
 
-- Supply_Chain_Issue_Compliance_Report.pptx  
-  Presentation summarizing compliance risks and recommended actions.  
+- Task_1_Supply_Chain_Issues_Review.docx  
+  Structured review of identified supply chain problems.  
 
-- Supply_Chain_Report.xlsx  
-  Data file containing metrics and datasets used to support the analysis.  
+Deliverable:
+Consolidated understanding of supply chain issues from communications and initial analysis.
 
-- Supply_Chain_Issues_Review.docx  
-  High-level review of identified issues and observations.  
+Task 2 – Action Planning and Coordination
+- Task_2_Action_Plan.docx  
+  Detailed action plan with proposed solutions and responsibilities.  
 
+- Task_2_Meeting_Summary.docx  
+  Summary of discussions, decisions, and action items.  
 
-Communication Artifacts
+- Task_2_Meeting_Invite_Screenshot.png  
+  Evidence of meeting scheduling and coordination.  
 
-- Email_Summary.docx  
-  Summary of email discussions, key messages, and stakeholder alignment.  
+Deliverable:
+Defined action plan supported by stakeholder alignment and meeting documentation.
 
-- Meeting_Summary.docx  
-  Summary of meetings, including key decisions and action items.  
+Task 3 – Data Analysis and Reporting
+- Task_3_Data_Analysis_Supply_Chain_Report.xlsx  
+  Data analysis of supply chain performance and metrics.  
 
-- Meeting_Invite_Screenshot.png  
-  Screenshot showing meeting scheduling context and coordination.  
+- Task_3_Supply_Chain_Issue_Analysis_Report.docx  
+  Report interpreting the data findings.  
 
+Deliverable:
+Quantitative and qualitative analysis supporting decision-making.
 
-Action Planning
+Task 4 – Compliance and Executive Reporting
+- Task_4_Supply_Chain_Issue_Compliance_Report.pptx  
+  Final presentation summarizing findings and compliance considerations.  
 
-- Action_Plan.docx  
-  Detailed action plan with next steps and execution strategy.  
+Deliverable:
+Executive-ready report with risks and recommendations.
+
+Final Submission Package
+- Project Submission_Supply Chain Report.zip  
+  Consolidated archive containing all deliverables.  
+
+- README.txt  
+  Plain text version of project documentation.  
 
 ------------------------------------------------------------------
 
-3. Tasks Overview and Deliverables
+3. Task Overview and Deliverables Summary
 
-Task 1: Issue Analysis  
-Deliverables:  
-- Supply_Chain_Issue_Analysis_Report.docx  
-- Supply_Chain_Report.xlsx  
-- Supply_Chain_Issues_Review.docx  
+Task 1  
+Objective: Identify and summarize supply chain issues  
+Deliverables: Email summary, issue review  
 
-Purpose:  
-Analyze the supply chain issue, identify root causes, and document findings.
+Task 2  
+Objective: Define and align on action plan  
+Deliverables: Action plan, meeting summary, meeting evidence  
 
+Task 3  
+Objective: Analyze data to support findings  
+Deliverables: Excel analysis, analytical report  
 
-Task 2: Communication and Stakeholder Alignment  
-Deliverables:  
-- Email_Summary.docx  
-- Meeting_Summary.docx  
-- Meeting_Invite_Screenshot.png  
-
-Purpose:  
-Demonstrate communication with stakeholders and document discussions and outcomes.
-
-
-Task 3: Recommendations and Action Plan  
-Deliverables:  
-- Action_Plan.docx  
-- Supply_Chain_Issue_Compliance_Report.pptx  
-
-Purpose:  
-Provide actionable recommendations and define steps for resolution.
+Task 4  
+Objective: Present findings and compliance view  
+Deliverable: Final presentation  
 
 ------------------------------------------------------------------
 
 4. How to Navigate and Review the Submission
 
-Step 1: Understand the context  
-- Start with Supply_Chain_Issues_Review.docx to get a high-level overview.  
+Recommended Review Order:
 
-Step 2: Review detailed analysis  
-- Read Supply_Chain_Issue_Analysis_Report.docx for full insights.  
-- Use Supply_Chain_Report.xlsx to validate supporting data.  
+1. Start with context  
+   - Email Summary  
+   - Supply Chain Issues Review  
 
-Step 3: Check communication evidence  
-- Review Meeting_Summary.docx and Email_Summary.docx.  
-- Refer to Meeting_Invite_Screenshot.png for additional context.  
+2. Understand actions taken  
+   - Action Plan  
+   - Meeting Summary  
+   - Meeting Invite Screenshot  
 
-Step 4: Evaluate recommendations  
-- Review Action_Plan.docx for execution steps.  
-- Review Supply_Chain_Issue_Compliance_Report.pptx for summarized recommendations.  
+3. Review data insights  
+   - Excel Data Analysis  
+   - Issue Analysis Report  
+
+4. Final review  
+   - Compliance Presentation  
+
+Reviewer Tips:
+- Begin with Task 1 to understand the problem before reviewing solutions.
+- Use the Excel file for detailed validation and the report for interpretation.
+- Refer to the presentation for a concise executive summary.
+- Use the ZIP file for a complete packaged view.
 
 ------------------------------------------------------------------
 
-5. Summary
-
-This submission includes:
-- Structured analysis supported by data  
-- Clear stakeholder communication documentation  
-- Actionable recommendations and planning  
+5. Notes
+- All documents show traceability from problem identification to solution and compliance.
+- Supporting artifacts are included to demonstrate execution and coordination.
